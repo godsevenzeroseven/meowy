@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 
-const TOKEN = "NDEyNDAzNjQ4NDM0NDA1Mzc2.DWJ0SQ.x7EBXKN3Y4bOAjTUsfewlHNtS_8";
+const TOKEN = "NDEyNDAzNjQ4NDM0NDA1Mzc2.DWKb3Q.rgMpqzUJZEmgfycIff9BVBataZo";
 
 var schedule = require('node-schedule');
 var bot = new Discord.Client();
